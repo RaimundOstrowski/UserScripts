@@ -3,7 +3,7 @@
 // @namespace    https://beta.goodnotes.com
 // @version      1.0.0
 // @description  Selects First Add-On (ex Web-ex) by default when no VC is selected.
-// @author       raio
+// @author       RaimundOstrowski
 // @match        https://calendar.google.com/calendar/*
 // @grant        none
 // @run-at       document-end
